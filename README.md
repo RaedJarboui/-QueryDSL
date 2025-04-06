@@ -1,0 +1,1 @@
+QueryDSL is a popular library in the Java ecosystem that provides a type-safe, fluent API for querying databases. It offers several advantages over traditional query methods such as JPQL (Java Persistence Query Language) or SQL. Here's why developers choose QueryDSL:
